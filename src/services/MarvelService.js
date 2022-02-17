@@ -25,11 +25,13 @@ class MarvelService {
        let descriptionCheck = char.description ? `${char.description.slice(0, 210)}...` : "There is no information about these character";
 
         return {
+            id: char.id,
             name: char.name,
             description: descriptionCheck,
             thumbnail: char.thumbnail.path + "." + char.thumbnail.extension,
             homepage: char.urls[0].url,
-            wiki: char.urls[0].url
+            wiki: char.urls[0].url,
+            comics: char.comics.items
         }
     }
 }
