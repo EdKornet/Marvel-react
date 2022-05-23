@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EdKornet.github.io/Marvel-react/static/css/main.17d02e1a.chunk.css",
+    "main.js": "/EdKornet.github.io/Marvel-react/static/js/main.439c79db.chunk.js",
+    "main.js.map": "/EdKornet.github.io/Marvel-react/static/js/main.439c79db.chunk.js.map",
+    "runtime-main.js": "/EdKornet.github.io/Marvel-react/static/js/runtime-main.d26a4ff9.js",
+    "runtime-main.js.map": "/EdKornet.github.io/Marvel-react/static/js/runtime-main.d26a4ff9.js.map",
+    "static/js/2.2b6efd15.chunk.js": "/EdKornet.github.io/Marvel-react/static/js/2.2b6efd15.chunk.js",
+    "static/js/2.2b6efd15.chunk.js.map": "/EdKornet.github.io/Marvel-react/static/js/2.2b6efd15.chunk.js.map",
+    "index.html": "/EdKornet.github.io/Marvel-react/index.html",
+    "static/css/main.17d02e1a.chunk.css.map": "/EdKornet.github.io/Marvel-react/static/css/main.17d02e1a.chunk.css.map",
+    "static/js/2.2b6efd15.chunk.js.LICENSE.txt": "/EdKornet.github.io/Marvel-react/static/js/2.2b6efd15.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/EdKornet.github.io/Marvel-react/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/EdKornet.github.io/Marvel-react/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/EdKornet.github.io/Marvel-react/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d26a4ff9.js",
+    "static/js/2.2b6efd15.chunk.js",
+    "static/css/main.17d02e1a.chunk.css",
+    "static/js/main.439c79db.chunk.js"
+  ]
+}
